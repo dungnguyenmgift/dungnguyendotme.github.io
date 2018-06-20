@@ -1,0 +1,19 @@
+{
+  "name": "mainsite",
+  "version": "1.0.0",
+  "description": "du an hkphimonline bat dau toi 03-07-2017(dd-mm-yyyy)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nmanhit@bitbucket.org/nmanhit/hkphimonline.git"
+  },
+  "author": "nmanhit",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nmanhit/hkphimonline#readme",
+  "dependencies": {    
+    "express": "^4.15.3"   
+  }
+}
